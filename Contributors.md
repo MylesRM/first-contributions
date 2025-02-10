@@ -1302,6 +1302,7 @@
 - [Cez](https://github.com/Cezzzzzz)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
 - [ycvy](https://github.com/ycvy)
+- Myles Romans Muirhead
 - [Fahim Muntasir](https://github.com/fahim-muntasir)
 - [Madike Olisa](https://github.com/ChubbyJoe)
 - [Sai_Aung_Wann](https://github.com/AungWann)
